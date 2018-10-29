@@ -1,0 +1,1 @@
+bot: bundll exec ruby discordbot.rb
